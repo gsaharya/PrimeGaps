@@ -1,5 +1,6 @@
 # PrimeGaps
 Parallel Programming
+
 A C script which finds the largest gap between two consecutive integers in range [a, b].
 How it works:
 
